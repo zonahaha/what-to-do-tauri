@@ -36,7 +36,8 @@
     "active": true,
     "targets": ["app", "dmg", "msi", "nsis"],
     "icon": [
-      "icons/icon_512.png"
+      "icons/icon_512.png",
+      "icons/icon.ico"
     ],
     "publisher": "What To Do Team"
   }

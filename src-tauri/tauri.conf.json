@@ -34,9 +34,11 @@
   },
   "bundle": {
     "active": true,
-    "targets": "all",
+    "targets": ["app", "dmg", "msi", "nsis"],
     "icon": [
       "icons/icon_512.png"
-    ]
+    ],
+    "identifier": "com.whattodo.desktop",
+    "publisher": "What To Do Team"
   }
 }
